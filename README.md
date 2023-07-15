@@ -5,9 +5,13 @@
 <p>Curso: Full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
-<h2>Punto 1: </h2>
+<h2>Punto 1: Calculadora</h2>
+<hr>
 <img src="./public/images/calculadora.png" alt="calculadora">
-<h2>Punto 2: </h2>
+
+<h2>Punto 2: Verificador de edad</h2>
+<hr>
+<img src="./public/images/verificador.png" alt="verificador">
 
 <h2>Punto 3: </h2>
 
