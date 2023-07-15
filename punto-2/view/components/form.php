@@ -1,5 +1,3 @@
-
-
 <form action="./view/pages/user-info-page.php" method="GET">
     <h2>Registro de usuario</h2>
     <div class="form__row">

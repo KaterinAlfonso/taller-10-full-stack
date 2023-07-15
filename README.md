@@ -14,6 +14,8 @@
 <img src="./public/images/verificador.png" alt="verificador">
 
 <h2>Punto 3: </h2>
+<hr>
+<img src="./public/images/registro.png" alt="registro">
 
 <h2>Punto 4: </h2>
 
